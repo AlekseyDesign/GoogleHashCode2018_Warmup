@@ -7,8 +7,8 @@ Team: JoLi
 
 Members:
 
-Sosyura Alexey
+Alex Design
 
-Gleb Saveliev
+Jora Karuzo
 
 ![Logo of Google Hash Code](https://hashcode.withgoogle.com/resources/logo/hashcode_hero.png)
