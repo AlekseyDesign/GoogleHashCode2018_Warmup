@@ -4,6 +4,7 @@ This is our entry for the warm up round of Google Hash Code 2018 which is locate
 You can find more information about the contest at https://hashcode.withgoogle.com/.
 
 This is a preparatory task for qualifying round,which was supposed to be after and for which 4 hours of time.
+https://github.com/AlekseyDesign/GoogleHashCode2018
 
 
 Team: JoLi
