@@ -8,6 +8,7 @@ Team: JoLi
 Members:
 
 Sosyura Alexey
+
 Gleb Saveliev
 
 ![Logo of Google Hash Code](https://hashcode.withgoogle.com/resources/logo/hashcode_hero.png)
