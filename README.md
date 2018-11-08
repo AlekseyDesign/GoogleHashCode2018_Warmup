@@ -1,6 +1,5 @@
 # GoogleHashCode2018_Warmup
 
-
 ![Logo of Google Hash Code](https://hashcode.withgoogle.com/resources/logo/hashcode_hero.png)
 
 This is our entry for the warm up round of Google Hash Code 2018 which is located in the directory `pizza`.
